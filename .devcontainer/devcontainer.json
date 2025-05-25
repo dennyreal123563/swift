@@ -4,7 +4,7 @@
     "features": {
         "ghcr.io/devcontainers/features/common-utils:2": {
             "installZsh": "false",
-            "username": "remoteser",
+            "username": "remotuser",
             "upgradePackages": "true"
         },
         "ghcr.io/devcontainers/features/git:1": {
